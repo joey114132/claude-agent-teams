@@ -1,0 +1,26 @@
+{
+  "name": "agent-teams",
+  "displayName": "Agent Teams",
+  "version": "0.1.0",
+  "description": "Six agent teams for Claude Code, each with a defined shape: defect-hunt-until-dry (loop until dry), hypothesis-duel (competing-hypothesis debugging), design-panel (blind-scored designs ending in an ADR), incident-timeline-postmortem (cited timeline and causal chain), spec-mutation-tests (spec to tests proven by mutation) and worktree-migration (one mechanical change across many modules, one branch per module). Least-power roles, blind verification with planted canaries, read-only critics and caps enforced in code.",
+  "author": {
+    "name": "joey114132"
+  },
+  "homepage": "https://github.com/joey114132/claude-agent-teams",
+  "repository": "https://github.com/joey114132/claude-agent-teams",
+  "license": "MIT",
+  "keywords": [
+    "adr",
+    "agent-teams",
+    "agents",
+    "code-review",
+    "debugging",
+    "migration",
+    "multi-agent",
+    "mutation-testing",
+    "orchestration",
+    "postmortem",
+    "subagents",
+    "workflows"
+  ]
+}

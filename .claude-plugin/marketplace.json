@@ -1,0 +1,15 @@
+{
+  "name": "claude-agent-teams",
+  "description": "Architecture-first agent teams for Claude Code: defect hunting, root-cause debugging, design decisions, postmortems, mutation-tested specs and worktree migrations.",
+  "owner": {
+    "name": "joey114132"
+  },
+  "plugins": [
+    {
+      "name": "agent-teams",
+      "source": "./",
+      "description": "Six teams with defined shapes and read-only critics: defect-hunt-until-dry, hypothesis-duel, design-panel, incident-timeline-postmortem, spec-mutation-tests, worktree-migration. Least-power agents, planted canaries and caps in code.",
+      "category": "productivity"
+    }
+  ]
+}
